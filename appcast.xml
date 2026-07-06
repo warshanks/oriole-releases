@@ -7,6 +7,16 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>1.2</title>
+      <pubDate>Mon, 06 Jul 2026 20:23:35 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Support OS 26</p>]]></description>
+      <sparkle:fullReleaseNotesLink>https://github.com/warshanks/oriole-releases/releases</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/warshanks/oriole-releases/releases/download/v1.2/Oriole-1.2.dmg" sparkle:edSignature="Y+pmDx4GW3AJ9TiEXGyveF4EKK8KMTdlQjfSmZp03D7SH39azPc+hbeqNLdO8ZhKPJus2TP0BuT7VUM8Sd+zBQ==" length="3892420" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>1.1</title>
       <pubDate>Mon, 06 Jul 2026 16:58:27 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
