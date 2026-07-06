@@ -6,5 +6,15 @@
     <description>Most recent updates to Oriole</description>
     <language>en</language>
     <!-- items -->
+    <item>
+      <title>1.1</title>
+      <pubDate>Mon, 06 Jul 2026 16:58:27 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Release</p>]]></description>
+      <sparkle:fullReleaseNotesLink>https://github.com/warshanks/oriole-releases/releases</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/warshanks/oriole-releases/releases/download/v1.1/Oriole-1.1.dmg" sparkle:edSignature="xVIif0zyiQ3j1bzNN0+KVhWA3gsR2J6oIiFE5teGh80Ba0MlOLRpjjLVGgT7697slxi8OnzRrP5dGZF4VkXwBw==" length="3486682" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
