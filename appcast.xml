@@ -7,6 +7,16 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>1.4</title>
+      <pubDate>Sun, 13 Sep 2026 20:31:27 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Faster story loading, smoother scrolling, and stable link previews. Comments load in order and stay visible during refresh. Improved caching, feed switching, and retries for interrupted downloads.</p>]]></description>
+      <sparkle:fullReleaseNotesLink>https://github.com/warshanks/oriole-releases/releases</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/warshanks/oriole-releases/releases/download/v1.4/Oriole-1.4.dmg" sparkle:edSignature="z9QLyEHgt9JP21GQaLNd4meLEam+C7IGgdc/tVqY3C4D79CeNVomcNpyG4GgmyTbVnEl//xTRuFhgmLMBLksBA==" length="3849107" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>1.3</title>
       <pubDate>Mon, 06 Jul 2026 20:42:33 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
